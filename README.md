@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi I'm Omid</h1>
+![Profile Views](https://komarev.com/ghpvc/?username=iTzPower&color=blue)
 
-- 🔭 I’m currently working on MineHeaven
+- I’m currently working on MineHeaven
 
 ### Languages & Tools
 
@@ -19,6 +20,4 @@
 ## GitHub Stats
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iTzPower&layout=compact&langs_count=5&theme=radical)
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=iTzPower&color=blue)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iTzPower&show_icons=true&theme=radical)
