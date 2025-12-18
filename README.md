@@ -18,3 +18,6 @@
 
 ## GitHub Stats
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iTzPower&layout=compact&langs_count=5&theme=radical)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=iTzPower&color=blue)
