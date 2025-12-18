@@ -19,6 +19,6 @@
 
 
 ## GitHub Stats
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iTzPower&layout=compact&langs_count=5&theme=radical)
+<p align=center>![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iTzPower&layout=compact&langs_count=5&theme=algolia)</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iTzPower&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iTzPower&show_icons=true&theme=algolia)
