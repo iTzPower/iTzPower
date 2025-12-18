@@ -4,7 +4,7 @@
 
 - I’m currently working on MineHeaven
 
-### Languages & Tools
+<h2 align=center>Languages & Tools</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
@@ -18,7 +18,7 @@
 </p>
 
 
-## GitHub Stats
+<h2 lign=center> GitHub Stats</h2>
 <p align=center><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTzPower&layout=compact&langs_count=5&theme=algolia"/>
 </p>
