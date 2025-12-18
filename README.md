@@ -13,7 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" />
-  <img src="https://img.shields.io/badge/Termius-000000?logo=terminal&logoColor=white" height="40"/>
+  <img src="https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client&hl=fa" height="40"/>
 </p>
 
 
