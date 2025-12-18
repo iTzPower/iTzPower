@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi I'm Omid</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=iTzPower&color=blue) ![Followers](https://img.shields.io/github/followers/iTzPower?label=Followers&style=flat&color=blue)
-![Stars](https://img.shields.io/github/stars/iTzPower?style=flat&color=yellow)
+<p align=center>
+  <img src="https://komarev.com/ghpvc/?username=iTzPower&color=blue"> <img src="https://img.shields.io/github/followers/iTzPower?label=Followers&style=flat&color=blue"> <img src="[https://komarev.com/ghpvc/?username=iTzPower&color=blue](https://img.shields.io/github/stars/iTzPower?style=flat&color=yellow)">
 
 
 - I’m currently working on MineHeaven
