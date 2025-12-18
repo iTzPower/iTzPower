@@ -17,4 +17,4 @@
 
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iTzPower&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iTzPower&layout=compact&langs_count=5)
