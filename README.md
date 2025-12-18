@@ -20,4 +20,5 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iTzPower&layout=compact&langs_count=5&theme=radical)
 
 
-![GitHub Views](https://github-readme-views.vercel.app/api?username=iTzPower&count_bg=%2379C83D&title_bg=%23555555&icon=octicon-eye&icon_color=%23FFFFFF&title=Profile%20Views)
+![Profile Views](https://komarev.com/ghpvc/?username=iTzPower&color=blue)
+
