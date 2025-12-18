@@ -20,5 +20,5 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iTzPower&layout=compact&langs_count=5&theme=radical)
 
 
-<img src="https://img.icons8.com/fluency/24/000000/eye.png"/> ![Profile Views](https://komarev.com/ghpvc/?username=iTzPower&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=iTzPower&color=blue)
 
