@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi I'm Omid</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=iTzPower&color=blue)
+<p align=center>![Profile Views](https://komarev.com/ghpvc/?username=iTzPower&color=blue)</p>
 
 - I’m currently working on MineHeaven
 
