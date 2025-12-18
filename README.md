@@ -1,4 +1,4 @@
-## Hello I'm Omid 👋
+<h1 align="center">Hi 👋 I'm Omid</h1>
 
 - 🔭 I’m currently working on MineHeaven
 
