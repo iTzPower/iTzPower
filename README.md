@@ -10,15 +10,18 @@
 
 <p align="center">
   <a href="https://iTzPower.iR">
-    <img src="https://img.shields.io/badge/-000000?logo=google-chrome&logoColor=white&style=for-the-badge" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_icon_%282011%29.png" width="48" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://discordapp.com/users/468093576102936586">
-    <img src="https://img.shields.io/badge/-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg" width="48" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://t.me/iTzPower_T">
-    <img src="https://img.shields.io/badge/-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="48" />
   </a>
 </p>
+
 
 
 <h2 align=center>Languages & Tools</h2>
