@@ -10,15 +10,16 @@
 
 <p align="center">
   <a href="https://iTzPower.iR">
-    <img src="https://img.shields.io/badge/Website-000000?logo=google-chrome&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/-000000?logo=google-chrome&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://discordapp.com/users/468093576102936586">
-    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://t.me/iTzPower_T">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" />
   </a>
 </p>
+
 
 <h2 align=center>Languages & Tools</h2>
 
