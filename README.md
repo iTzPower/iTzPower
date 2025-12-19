@@ -6,14 +6,18 @@
 
 - I’m currently working on MineHeaven And PixelMC
 
-<h2 align=centet>Social</h2>
+<h2 align=center>Social</h2>
 
 <p align="center">
   <a href="https://discordapp.com/users/468093576102936586">
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" height="40" />
   </a>
 </p>
-
+<p align="center">
+  <a href="https://t.me/iTzPower_T">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" height="40" />
+  </a>
+</p>
 
 
 <h2 align=center>Languages & Tools</h2>
