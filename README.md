@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://iTzPower.iR">
-    <img src="https://img.shields.io/badge/Website-000000?logo=google-chrome&logoColor=white" height="60" />
+    <img src="https://img.shields.io/badge/Website-000000?logo=google-chrome&logoColor=white" height="100" />
   </a>
   <a href="https://discordapp.com/users/468093576102936586">
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" height="60" />
