@@ -9,16 +9,16 @@
 <h2 align=center>Social</h2>
 
 <p align="center">
-  <a href="https://iTzPower.iR">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="48" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://discordapp.com/users/468093576102936586">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="48" />
+    <img src="Images/discord.svg" width="48" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://t.me/iTzPower_T">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="48" />
+    <img src="Images/telegram.svg" width="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://iTzPower.iR">
+    <img src="Images/website.svg" width="48" />
   </a>
 </p>
 
