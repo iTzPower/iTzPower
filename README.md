@@ -10,9 +10,10 @@
 
 <p align="center">
   <a href="https://discordapp.com/users/468093576102936586">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="40" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" height="40" />
   </a>
 </p>
+
 
 
 <h2 align=center>Languages & Tools</h2>
