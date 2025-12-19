@@ -6,6 +6,15 @@
 
 - I’m currently working on MineHeaven And PixelMC
 
+<h2 align=centet>Social</h2>
+
+<p align="center">
+  <a href="https://discordapp.com/users/468093576102936586">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="40" />
+  </a>
+</p>
+
+
 <h2 align=center>Languages & Tools</h2>
 
 <p align="center">
