@@ -6,7 +6,7 @@
 
 - I’m currently working on MineHeaven And PixelMC
 
-<h2 align=center>Social</h2>
+<h2 align=center>Socials</h2>
 
 <p align="center">
   <a href="https://discordapp.com/users/468093576102936586">
