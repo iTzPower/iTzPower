@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=iTzPower&color=blue"> <img src="https://img.shields.io/github/followers/iTzPower?label=Followers&style=flat&color=blue"> <img src="https://img.shields.io/github/stars/iTzPower?style=flat&color=yellow)">
 
 
-- I’m currently working on MineHeaven And PixelMC
+- I’m currently working on MineHeaven
 
 <h2 align=center>Socials</h2>
 
