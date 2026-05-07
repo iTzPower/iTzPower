@@ -40,11 +40,16 @@
 </p>
 
 
-<h2 lign=center> GitHub Stats</h2>
-<p align=center><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTzPower&layout=compact&langs_count=5&theme=algolia"/>
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTzPower&layout=compact&langs_count=5&theme=algolia"/>
 </p>
 
-<p align="center"><br>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iTzPower&show_icons=true&theme=algolia"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iTzPower&theme=algolia" alt="GitHub Streak"/>
 </p>
