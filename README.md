@@ -40,17 +40,11 @@
 </p>
 
 
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTzPower&layout=compact&langs_count=5&theme=algolia"/>
+<h2 lign=center> GitHub Stats</h2>
+<p align=center><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTzPower&layout=compact&langs_count=5&theme=algolia"/>
 </p>
 
-<p align="center">
+<p align="center"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=iTzPower&show_icons=true&theme=algolia"/>
-</p>
-
-<!-- جایگزین ساده برای تست -->
-<p align="center">
-  <img src="https://stats.quine.sh/iTzPower/top-langs?theme=dark"/>
 </p>
