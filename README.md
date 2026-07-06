@@ -1,13 +1,16 @@
 <h1 align="center">Hi, I'm Omid 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Currently+working+on+MineHeaven;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=480&lines=Currently+working+on+MineHeaven;Backend+%26+Systems+Enthusiast;Always+learning+something+new;Welcome+to+my+profile+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iTzPower&color=blue&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/iTzPower?label=Followers&style=flat-square&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/iTzPower?style=flat-square&color=yellow" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=iTzPower&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/iTzPower?label=Followers&style=for-the-badge&color=2E9EF7&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/iTzPower?style=for-the-badge&color=FFD700&logo=github&logoColor=white" alt="Stars" />
 </p>
 
 ---
@@ -49,10 +52,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iTzPower&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTzPower&layout=compact&langs_count=6&theme=algolia&hide_border=true" alt="Top Languages" width="48%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iTzPower&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTzPower&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iTzPower&theme=algolia&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=iTzPower&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iTzPower&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iTzPower&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
 </p>
