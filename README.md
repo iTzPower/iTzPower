@@ -22,7 +22,7 @@
     <img src="Images/discord.svg" width="45" alt="Discord" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/iTzPower_T">
+  <a href="https://t.me/iTzPower_iR">
     <img src="Images/telegram.svg" width="45" alt="Telegram" />
   </a>
   &nbsp;&nbsp;&nbsp;
